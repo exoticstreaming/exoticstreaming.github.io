@@ -35,6 +35,9 @@ header.title:hover {
     background-color: none;
 }
 
+main {
+    min-height: 90vh;
+}
 
 .movies {
     display: flex;
@@ -90,8 +93,6 @@ a {
 }
 
 footer {
-    position: fixed;
-    bottom: 0;
     width: 100%;
     padding: 20px;
     background-color: rgb(15, 14, 14);
