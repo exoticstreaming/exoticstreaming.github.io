@@ -27,6 +27,7 @@ header .title {
     text-decoration: none;
     font-family: 'Philosopher', sans-serif;
     color: #000;
+    text-align: center;
 }
 
 header.title:hover {
