@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
 * {
     box-sizing: border-box;
     margin: 0;
@@ -26,9 +25,8 @@ header {
 header .title {
     font-size: 48px;
     text-decoration: none;
-    font-family: 'Parisienne', sans-serif;
+    font-family: 'Philosopher', sans-serif;
     color: #000;
-    font-style: italic;
 }
 
 header.title:hover {
