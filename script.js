@@ -2,7 +2,7 @@ const movies = [
     {
         name: 'Avatar',
         thumbnail: 'thumbnails/Avatar.jpg',
-        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9BdmF0YXIxLzAxLm1wNCIsImV4cGlyZSI6MTY3NDQ3NDY3ODI1MSwiaXAiOiIxOTYuNzUuMjA5Ljc2In0=&auth=36158cb89041b943bf30960acad774a0015295b2e3b52e4999fd96d50aca5b11" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
+        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9BdmF0YXIxLzAxLm1wNCIsImV4cGlyZSI6MTY3NDU5Mzg3MjI2MSwiaXAiOiI0MS4yNDguMTQ4LjgwIn0=&auth=41df1bede78062d49c8d149e0ad4bb6b78204178a284df409c4c56fb699ea961" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
     }, {
         name: 'Avatar 2',
         thumbnail: 'https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg',
@@ -10,19 +10,19 @@ const movies = [
     }, {
         name: 'Joker',
         thumbnail: 'thumbnails/joker.jpg',
-        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9NYXJ2ZWwvSm9rZXIyMDE5LzAxLm1wNCIsImV4cGlyZSI6MTY3NDQ3NDAwNDgzNSwiaXAiOiIxOTYuNzUuMjA5Ljc2In0=&auth=7277253903ccb60f25fc41d556cf766af25f0a7fc50b09e4b20ff827fd554a1b" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
+        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9NYXJ2ZWwvSm9rZXIyMDE5LzAxLm1wNCIsImV4cGlyZSI6MTY3NDU5MzgxOTEwNywiaXAiOiI0MS4yNDguMTQ4LjgwIn0=&auth=d62eaa512164e43fa8eac146fcd5d4a8d1135415987cf0149c3e08b62f8d9b45" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
     }, {
         name: 'Troll',
         thumbnail: 'thumbnails/Troll.jpg',
-        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr/?file=eyJrZXkiOiJmaWxtcy9Ucm9sbC8wMS5tcDQiLCJleHBpcmUiOjE2NzQ0NzMxOTIyNzIsImlwIjoiMTk2Ljc1LjIwOS43NiJ9&auth=4e87a73398710ebba3e6148680d06c6041ec81d68d63a95e192ff5ef955103db" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
+        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9Ucm9sbC8wMS5tcDQiLCJleHBpcmUiOjE2NzQ1OTM3Nzg0NDAsImlwIjoiNDEuMjQ4LjE0OC44MCJ9&auth=5c6279197dbdf69fb02150dc023d5c40ab2e2923efdf63daa0aee531f4f127e3" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
     }, {
         name: 'Spider-Man No Way Home',
         thumbnail: 'thumbnails/Spidermannowayhome.jpg',
-        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr/?file=eyJrZXkiOiJmaWxtcy9Ucm9sbC8wMS5tcDQiLCJleHBpcmUiOjE2NzQ0NzMxOTIyNzIsImlwIjoiMTk2Ljc1LjIwOS43NiJ9&auth=4e87a73398710ebba3e6148680d06c6041ec81d68d63a95e192ff5ef955103db" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
+        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9NYXJ2ZWwvU3BpZGVybWFuTm9XYXlIb21lLzAzLm1wNCIsImV4cGlyZSI6MTY3NDU5MzczMjg0NiwiaXAiOiI0MS4yNDguMTQ4LjgwIn0=&auth=f91e1831ce8f8d2ef81ba74574752186e782452ce39ec7ac11d17b421ba33a4c" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
     }, {
         name: 'The Batman',
         thumbnail: 'thumbnails/Batman.jpg',
-        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9NYXJ2ZWwvVGhlQmF0bWFuLzAxLm1wNCIsImV4cGlyZSI6MTY3NDQ3NTU1NzYwNywiaXAiOiIxOTYuNzUuMjA5Ljc2In0=&auth=d115e17aed9de2dea1908fdabc9a61df09905fa9985d2aecd1c667c547019975" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
+        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9NYXJ2ZWwvVGhlQmF0bWFuLzAxLm1wNCIsImV4cGlyZSI6MTY3NDU5MzY2MTUyNywiaXAiOiI0MS4yNDguMTQ4LjgwIn0=&auth=e03d1d1babecd44cfdb1a853971caa26894a277f28a1b3c45f68e85fae406fd3" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
     }, {
         name: 'Athena',
         thumbnail: 'thumbnails/Athena.jpg',
