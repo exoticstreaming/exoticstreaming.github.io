@@ -26,7 +26,7 @@ const movies = [
     }, {
         name: 'Athena',
         thumbnail: 'thumbnails/Athena.jpg',
-        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9BdGhlbmEyMDIyLzAxLm1wNCIsImV4cGlyZSI6MTY3NDQ3NjA0NTk5NSwiaXAiOiIxOTYuNzUuMjA5Ljc2In0=&auth=f1cb12bf9a065a5ddde0f09943e68bb085b856a50c3f0da2fc4e9ddea50bda75" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
+        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9BdGhlbmEyMDIyLzAxLm1wNCIsImV4cGlyZSI6MTY3NDU5MzM5NjU3MywiaXAiOiI0MS4yNDguMTQ4LjgwIn0=&auth=9e07d456626bf3f215c60dc470507cb0f7b3fbad3ab4be1359ce2435af8e5cbf" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
     }
     
 ]
