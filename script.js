@@ -14,7 +14,7 @@ const movies = [
     }, {
         name: 'Troll',
         thumbnail: 'thumbnails/Troll.jpg',
-        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9Ucm9sbC8wMS5tcDQiLCJleHBpcmUiOjE2NzQ1OTM3Nzg0NDAsImlwIjoiNDEuMjQ4LjE0OC44MCJ9&auth=5c6279197dbdf69fb02150dc023d5c40ab2e2923efdf63daa0aee531f4f127e3" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
+        streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9NYXJ2ZWwvU3BpZGVybWFuTm9XYXlIb21lLzAzLm1wNCIsImV4cGlyZSI6MTY3NDU5MzczMjg0NiwiaXAiOiI0MS4yNDguMTQ4LjgwIn0=&auth=f91e1831ce8f8d2ef81ba74574752186e782452ce39ec7ac11d17b421ba33a4c" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
     }, {
         name: 'Spider-Man No Way Home',
         thumbnail: 'thumbnails/Spidermannowayhome.jpg',
