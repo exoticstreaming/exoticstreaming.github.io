@@ -27,6 +27,10 @@ const movies = [
         name: 'Athena',
         thumbnail: 'thumbnails/Athena.jpg',
         streamIframe: '<IFRAME SRC="https://a.iptvforyou.fr?file=eyJrZXkiOiJmaWxtcy9BdGhlbmEyMDIyLzAxLm1wNCIsImV4cGlyZSI6MTY3NDU5MzM5NjU3MywiaXAiOiI0MS4yNDguMTQ4LjgwIn0=&auth=9e07d456626bf3f215c60dc470507cb0f7b3fbad3ab4be1359ce2435af8e5cbf" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
+    }, {
+        name: 'Teen Wolf',
+        thumbnail: 'thumbnails/teenwolf.jpg',
+        streamIframe: '<IFRAME SRC="https://filemoon.sx/e/fcd22wyclzkz?sub.info=https%3A%2F%2Fsoap2day.id%2Fajax%2Fepisode%2Fsubtitles%2F44ea41bb92e8390c445461c93b1e2915%3F" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=640 HEIGHT=360 allowfullscreen></IFRAME>'
     }
     
 ]
